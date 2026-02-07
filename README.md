@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @CoderBryan2012
-- 👀 I’m interested in Coding!
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I love rice and chicken.
+Welcome to my profile! 
+I upload projects weekly.
+Feel free to remix or experimentwith my projects!
 
 <!---
 CoderBryan2012/CoderBryan2012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
